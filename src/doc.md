@@ -1,7 +1,3 @@
 # demontrate
-## Bharati
 
 # kalpesh
-
-# chouhan
-
